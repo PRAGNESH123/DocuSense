@@ -239,6 +239,6 @@ Never commit secrets (OpenAI keys or DB passwords). Use environment variables.
 
 For public demo: replace API key usage with secure server-side vault or GitHub Actions secrets for CI.
 
-Implement JWT/OAuth and RBAC before exposing the app in production.
+
 
 ************************************
